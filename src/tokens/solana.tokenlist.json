@@ -1,10 +1,11 @@
 {
   "chainId": 101,
-  "address": "7uY8eUotGcm1oXYj8xaFiBuk5saN9QYtqervA3vK7J6U",
-  "symbol": "PFP",
-  "name": "Pay It Forward & Protect",
+  "address": "Deprecated",
+  "symbol": "NOBUY",
+  "name": "",
   "decimals": 9,
-  "logoURI": "https://volunteercoinproject.org/logo/pfp-logo.png",
-  "website": "https://volunteercoinproject.org",
+  "logoURI": "NOTHERE",
+  "website": "1",
   "tags": ["charity", "community", "volunteer", "PFP"]
 }
+
